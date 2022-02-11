@@ -1,7 +1,0 @@
-{
-string str = "Hello";
-int length;
-print("Code for String length " #);
-length = strlen(str);
-print("Length of Hello is: " length #);
-}
