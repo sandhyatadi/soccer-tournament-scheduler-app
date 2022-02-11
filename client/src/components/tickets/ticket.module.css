@@ -1,0 +1,39 @@
+.gird{
+    display:  grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows:  1fr 1fr 1fr;
+    gap : 1vw;
+}
+h2{
+    font-weight: bold;
+    text-align: center;
+}
+.subgird{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+}
+/* button{
+    outline: none;
+    border: none;
+    cursor: pointer;
+    margin-top : 2%;
+    width: 10%;
+    height: 20%;
+    border-radius: 20px;
+    font-size: 130%;
+    font-weight: 700;
+    font-family: 'Lato', sans-serif;
+    color: #fff;
+    text-align: center;
+    background-color: #448a96;
+    box-shadow: 3px 3px 8px #b1b1b1, -3px -3px 8px #fff;
+    transition: all 0.5s;
+   
+}
+button:hover{
+        background-color: #337180;
+}
+button:active{
+        background-color: #88ef9e;   
+} */

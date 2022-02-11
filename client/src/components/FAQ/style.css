@@ -1,0 +1,62 @@
+.emboss {
+	text-indent: 1em;
+	text-justify: newspaper;
+	text-align: center;
+	background: #000;
+	background-clip: text;
+	color: transparent;
+	text-shadow:  1px 2px 1px;
+}
+
+.faq-ol{
+	padding-left: 2rem;
+  	list-style-type: none;
+	padding-left: 2rem;
+  	background-position: 0 0;
+  	background-size: 1.6rem 1.6rem;
+  	background-repeat: no-repeat;
+}
+
+.faq-container {
+	width: 80%;
+	line-height: 30px;
+	margin-left: 10%;
+	font-size: 20px;
+	color: black;
+}
+
+.faq-li{
+  	list-style-position: outside;
+  	list-style-image: none;
+	margin-bottom: 15px;
+	
+}
+
+.faq-li.sub-li{
+	color: #ac4e4e;
+}
+
+.faq-p{
+	margin-top : -5%;
+	justify-content: center;
+	text-indent: 1em;
+	text-justify: newspaper;
+	text-align: justify;
+	padding : 4rem;
+	background-clip: text;
+	font-size : 150%;
+}
+
+.engrave {
+	margin-top : -5%;
+	justify-content: center;
+	text-indent: 1em;
+	text-justify: newspaper;
+	text-align: justify;
+	padding : 4rem;
+	background: #0d0e0d;
+	background-clip: text;
+	color: transparent;
+	font-size : 150%;
+	text-shadow:  0.05rem 0.1rem 1px rgba(255,255,255,0.5);
+}

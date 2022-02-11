@@ -1,0 +1,64 @@
+{
+  "name": "ser515-fall2021-team14",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.4",
+    "axios-hooks": "^2.7.0",
+    "clsx": "^1.1.1",
+    "faker": "^5.5.3",
+    "lodash-es": "^4.17.21",
+    "nanoid": "^3.1.30",
+    "react": "^17.0.2",
+    "react-bnb-gallery": "^1.4.4",
+    "react-dom": "^17.0.2",
+    "react-fast-compare": "^3.2.0",
+    "react-favicon": "0.0.25",
+    "react-hover-video-player": "^9.3.1",
+    "react-icons": "^4.3.1",
+    "react-image-gallery": "^1.2.7",
+    "react-player": "^2.9.0",
+    "react-responsive-carousel": "^3.2.22",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-seat-charts": "^0.1.14",
+    "react-slick": "^0.28.1",
+    "react-table": "^7.7.0",
+    "react-thumbnail-player": "^1.2.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.4",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.1",
+    "web-vitals": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+.emboss {
+	background: #000;
+	background-clip: text;
+	color: transparent;
+	text-shadow:  1px 2px 1px;
+}
+.contact-container {
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+
+.contact-content {
+	line-height: 30px;
+	font-size: 20px;
+}
+.contact-sub-content {
+	line-height: 30px;
+	font-size: 20px;
+	padding : 4rem;
+	margin-top : -5%;
+	text-indent: 1em;
+	text-justify: newspaper;
+	text-align: justify;
+}
+
+h1 {
+    font-size: 250%;
+}
+.engrave {
+	margin-top : -5%;
+	justify-content: center;
+	text-indent: 1em;
+	text-justify: newspaper;
+	text-align: justify;
+	padding : 4rem;
+	background: #0d0e0d;
+	background-clip: text;
+	color: transparent;
+	font-size : 150%;
+	text-shadow:  0.05rem 0.1rem 1px rgba(255,255,255,0.5);
+}
