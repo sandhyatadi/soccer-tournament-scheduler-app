@@ -1,6 +1,5 @@
 
-# ITS ALL LOVE, GLHF
-
+# SOCCER TOURNAMENT SCHEDULER
 
 ### `npm install`
 
